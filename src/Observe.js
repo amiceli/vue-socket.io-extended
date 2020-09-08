@@ -42,6 +42,7 @@ export default (Socket, { store, ...otherOptions } = {}) => {
 
   function registerEventHandler() {
     augmentMethod(Socket, 'onevent', (packet) => {
+      // eslint-disable-next-line prefer-const
       let [eventName, ...args] = packet.data;
 
       if (otherOptions.eventMapping) {
