@@ -2,7 +2,7 @@
 
 This project is a fork of [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended).
 
-Currenlty it added **event mapping** feature.
+Currenlty it added **event mapping** feature. My PR is still waiting so I publish my own version.
 
 ## install
 
