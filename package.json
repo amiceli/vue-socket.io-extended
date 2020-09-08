@@ -1,6 +1,6 @@
 {
-  "name": "vue-socket.io-extended",
-  "version": "4.0.2",
+  "name": "@amiceli/vue-socket.io-extended",
+  "version": "4.0.3",
   "description": "Socket.io bindings for Vue.js and Vuex (inspired by Vue-Socket.io)",
   "main": "dist/vue-socket.io-ext.min.js",
   "module": "dist/vue-socket.io-ext.esm.js",
@@ -34,12 +34,12 @@
     "redux",
     "vue-socket.io"
   ],
-  "author": "Max Lyashuk <m_lyashuk@ukr.net>",
+  "author": "Max Lyashuk <m_lyashuk@ukr.net>, Antoine MICELI <antoine@miceli.click>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/probil/vue-socket.io-extended/issues"
+    "url": "https://github.com/amiceli/vue-socket.io-extended/issues"
   },
-  "homepage": "https://github.com/probil/vue-socket.io-extended#readme",
+  "homepage": "https://github.com/amiceli/vue-socket.io-extended#readme",
   "dependencies": {
     "@types/socket.io-client": "1.4.33"
   },
