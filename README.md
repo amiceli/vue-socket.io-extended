@@ -1,4 +1,4 @@
-# @miceli/vue-socket.io-extended
+# @amiceli/vue-socket.io-extended
 
 This project is a fork of [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended).
 
